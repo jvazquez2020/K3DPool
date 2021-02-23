@@ -1,0 +1,34 @@
+
+{
+  "poolName": "myPool",
+  "poolOwner": [
+    {
+    "ownerName": "myPool",
+    "ownerWitness": "local"
+    }
+  ],
+  "poolRewards": "myPool",
+  "poolPledge": "500000000",
+  "poolCost": "340000000",
+  "poolMargin": "0.05",
+  "poolRelays": [
+    {
+      "relayType": "ip",
+      "relayEntry": "35.208.234.165",
+      "relayPort": "6000"
+    },
+    {
+      "relayType": "ip",
+      "relayEntry": "35.208.59.200",
+      "relayPort": "6000"
+    }
+
+  ],
+  "poolMetaName": "K3Dpool",
+  "poolMetaDescription": "La comunidad latina aportando a mejorar la Red de Cardano desde Puerto Rico",
+  "poolMetaTicker": "K3D",
+  "poolMetaHomepage": "https://set_your_webserver_url_here",
+  "poolMetaUrl": "https://set_your_webserver_url_here/myPool.metadata.json",
+  "poolExtendedMetaUrl": "",
+  "---": "--- DO NOT EDIT OR DELETE BELOW THIS LINE ---"
+}
