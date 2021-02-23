@@ -27,8 +27,8 @@
   "poolMetaName": "K3Dpool",
   "poolMetaDescription": "La comunidad latina aportando a mejorar la Red de Cardano desde Puerto Rico",
   "poolMetaTicker": "K3D",
-  "poolMetaHomepage": "https://set_your_webserver_url_here",
-  "poolMetaUrl": "https://set_your_webserver_url_here/myPool.metadata.json",
-  "poolExtendedMetaUrl": "",
+  "poolMetaHomepage": "https://raw.githubusercontent.com/jvazquez2020/K3DPool/main/myPool.pool.json",
+  "poolMetaUrl": "https://raw.githubusercontent.com/jvazquez2020/K3DPool/main/myPool.metadata.json",
+  "poolExtendedMetaUrl": "https://git.io/JtQ94",
   "---": "--- DO NOT EDIT OR DELETE BELOW THIS LINE ---"
 }
